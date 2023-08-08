@@ -1,0 +1,4 @@
+C:\Users\Asus\Documents\Programming\cod soft\NumberGuessingGame\NumberGuessingGame\Debug\NumberGuessingGame.vcxproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Programming\cod soft\NumberGuessingGame\NumberGuessingGame\Debug\NumberGuessingGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\Programming\cod soft\NumberGuessingGame\NumberGuessingGame\Debug\NumberGuessingGame.MyForm.resources
+C:\Users\Asus\Documents\Programming\cod soft\NumberGuessingGame\NumberGuessingGame\Debug\NumberGuessingGame.vcxproj.GenerateResource.cache
